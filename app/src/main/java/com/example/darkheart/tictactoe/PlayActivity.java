@@ -137,7 +137,11 @@ public class PlayActivity extends AppCompatActivity {
     }
 
     /**********************************************************************************************
+<<<<<<< HEAD
      *  announceWinner
+=======
+     *  resetGame
+>>>>>>> origin/master
      *********************************************************************************************/
     public void announceWinner(View v, String player){
         // First Row
